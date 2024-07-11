@@ -1,0 +1,21 @@
+{
+  "name": "ladyluck-color-theme",
+  "displayName": "ladyluck-color-theme",
+  "description": "Its a simple color theme! Enjoy!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LadyLuck-Color-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LadyLuck-Color-Theme-color-theme.json"
+      }
+    ]
+  }
+}
