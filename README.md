@@ -1,16 +1,18 @@
-# ladyluck-color-theme README
+# Lady Luck Pink Color Theme
 
-## Working with Markdown
+A pink color theme for VS Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Exemplo de Código](./images/exemplo.png)
 
-## For more information
+## Instalação
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Abra o Visual Studio Code.
+2. Vá para o painel de extensões (Ctrl+Shift+X).
+3. Pesquise por "Lady Luck Pink Color Theme".
+4. Clique em "Instalar".
 
-**Enjoy!**
+## Uso
+
+Após instalar, vá para `Preferências > Tema de Cor` e selecione "Lady Luck Pink".
