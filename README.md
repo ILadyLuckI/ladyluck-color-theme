@@ -4,16 +4,16 @@ A pink color theme for VS Code.
 
 ## Screenshots
 
-![Captura de tela mostrando a interface](./images/Captura%20de%20tela%202024-07-27%20004500.png)
-![Outro exemplo de uso](./images/Captura%20de%20tela%202024-07-27%20004548.png)
+![Captura de tela mostrando a interface](./images/screenshot1.png)
+![Outro exemplo de uso](./images/screenshot2.png)
 
-## Instalação
+## Installation
 
-1. Abra o Visual Studio Code.
-2. Vá para o painel de extensões (Ctrl+Shift+X).
-3. Pesquise por "Lady Luck Pink Color Theme".
-4. Clique em "Instalar".
+1. Open Visual Studio Code.
+2. Go to the extensions panel (Ctrl+Shift+X).
+3. Search for "Lady Luck Pink Color Theme".
+4. Click "Install".
 
-## Uso
+## Usage
 
-Após instalar, vá para `Preferências > Tema de Cor` e selecione "Lady Luck Pink".
+After installing, go to `Preferences > Color Theme` and select "Lady Luck Pink".
