@@ -4,8 +4,8 @@ A pink color theme for VS Code.
 
 ## Screenshots
 
-![Captura de tela mostrando a interface](./images/screenshot1.png)
-![Outro exemplo de uso](./images/screenshot2.png)
+![Captura de tela mostrando a interface](images/screenshot1.png)
+![Outro exemplo de uso](images/screenshot2.png)
 
 ## Installation
 

@@ -2,7 +2,7 @@
   "name": "ladyluck-color-theme",
   "displayName": "Lady Luck Pink Color Theme",
   "description": "Its a simple color theme! Enjoy!",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.91.0"
   },
