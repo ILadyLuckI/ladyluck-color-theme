@@ -2094,6 +2094,10 @@
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#333333",
-    "debugExceptionWidget.border": "#474747"
+    "debugExceptionWidget.border": "#474747",
+	"quickInput.background": "#3a013f",
+	"quickInput.foreground": "#cccccc",
+	"quickInputList.focusBackground": "#1d0a1d",
+    "quickInputList.focusForeground": "#FFFFFF",
   }
 }

@@ -2,18 +2,25 @@
   "name": "ladyluck-color-theme",
   "displayName": "Lady Luck Pink Color Theme",
   "description": "Its a simple color theme! Enjoy!",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.91.0"
   },
   "publisher": "IladyluckI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ILadyLuckI/ladyluck-pink-color-theme"
+    "url": "https://github.com/ILadyLuckI/ladyluck-pink-color-theme.git"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+        "ladyluck",
+        "dark",
+        "theme",
+        "color-theme",
+        "pink"
+    ],
   "icon": "images/icon.png"
   ,
   "contributes": {
@@ -24,5 +31,7 @@
         "path": "./themes/LadyLuck-Color-Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "author": "Daiana Koblitz <dai.koblitz@gmail.com>",
+  "license": "MIT"
 }
