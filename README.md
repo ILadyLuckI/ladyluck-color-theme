@@ -4,7 +4,11 @@ A pink color theme for VS Code.
 
 ## Screenshots
 
+<<<<<<< HEAD
 ![Captura de tela mostrando a interface](./cap1.jpg)
+=======
+![Captura de tela mostrando a interface](https://flic.kr/p/2qbdLe9.png)
+>>>>>>> 98bf24969fadacb04d896ded256f98f9ec1ec8bb
 
 ![Outro exemplo de uso](./cap2.jpg)
 ![Outro exemplo de uso](./cap3.jpg)
