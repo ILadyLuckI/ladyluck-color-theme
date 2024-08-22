@@ -9,7 +9,7 @@
   "publisher": "IladyluckI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ILadyLuckI/ladyluck-pink-color-theme.git"
+    "url": "https://github.com/ILadyLuckI/ladyluck-pink-color-theme"
   },
   "categories": [
     "Themes"
@@ -32,6 +32,5 @@
       }
     ]
   },
-  "author": "Daiana Koblitz <dai.koblitz@gmail.com>",
-  "license": "MIT"
+  "author": "Daiana Koblitz <dai.koblitz@gmail.com>"
 }
