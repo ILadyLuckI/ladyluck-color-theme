@@ -2,6 +2,12 @@
 
 All notable changes to the "ladyluck-color-theme" extension will be documented in this file.
 
+## [0.1.1] - 2024-09-14
+
+### Alterado
+  (nova tentativa de implementar as modificações)
+- Novo ajuste de cor da borda na 'tab' ativa do editor.
+
 ## [0.1.0] - 2024-09-14
 
 ### Alterado
