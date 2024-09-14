@@ -1940,7 +1940,7 @@
       "editorLineNumber.activeForeground": "#5884ec",
       "editorLink.activeForeground": "#4e94ce",
       "editorIndentGuide.background1": "#404040",
-    "editorIndentGuide.activeBackground1": "#707070",
+      "editorIndentGuide.activeBackground1": "#707070",
       "editorRuler.foreground": "#c902d9",
       "editorBracketMatch.background": "#0064001a",
       "editorBracketMatch.border": "#888888",
@@ -1973,6 +1973,8 @@
       "panelTitle.inactiveForeground": "#e7e7e799",
       "badge.background": "#4d4d4d",
       "badge.foreground": "#ffffff",
+
+      // terminal
       "terminal.foreground": "#cccccc",
       "terminal.selectionBackground": "#ffffff40",
       "terminalCursor.background": "#0087FF",
@@ -1994,21 +1996,26 @@
       "terminal.ansiRed": "#cd3131",
       "terminal.ansiWhite": "#e5e5e5",
       "terminal.ansiYellow": "#e5e510",
+
+      // breadcrumbs
       "breadcrumb.background": "#1d0a1d",
       "breadcrumb.foreground": "#cccccccc",
       "breadcrumb.focusForeground": "#e0e0e0",
       "editorGroupHeader.tabsBackground": "#1d0a1d",
       "editorGroupHeader.tabsBorder": "#c902d9",
+
+      // tabs
       "tab.activeForeground": "#ffffff",
       "tab.border": "#c902d9",
-      "tab.activeBackground": "#c902d9",
+      "tab.activeBackground": "#54055a",
       "tab.activeBorder": "#00000000",
-      "tab.activeBorderTop": "#00000000",
+      "tab.activeBorderTop": "#3b8eea",
       "tab.inactiveBackground": "#3a013f",
       "tab.inactiveForeground": "#ffffff",
-      "tab.hoverBackground": "#c902d9",
+      "tab.hoverBackground": "#54055a",
       "tab.hoverForeground": "#ffffff",
       "tab.hoverBorder": "#c902d9",
+
       "scrollbarSlider.background": "#797979f3",
       "scrollbarSlider.hoverBackground": "#646464b3",
       "scrollbarSlider.activeBackground": "#bfbfbf66",
