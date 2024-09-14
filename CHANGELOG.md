@@ -2,8 +2,8 @@
 
 All notable changes to the "ladyluck-color-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.9] - 2024-09-13
 
-## [Unreleased]
-
-- Initial release
+### Alterado
+- Modificações nas cores de sintaxe JavaScript para melhor diferenciação entre variáveis e funções.
+- Ajuste na cor das 'tabs' do editor.
